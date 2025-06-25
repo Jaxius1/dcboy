@@ -1,0 +1,397 @@
+{
+  "roles": [
+    {
+      "name": "aşk",
+      "color": 0,
+      "hoist": false,
+      "permissions": "8",
+      "position": 29,
+      "mentionable": false
+    },
+    {
+      "name": "</>",
+      "color": 0,
+      "hoist": false,
+      "permissions": "8",
+      "position": 26,
+      "mentionable": false
+    },
+    {
+      "name": "----------------------",
+      "color": 0,
+      "hoist": false,
+      "permissions": "0",
+      "position": 25,
+      "mentionable": false
+    },
+    {
+      "name": "----------------------",
+      "color": 0,
+      "hoist": false,
+      "permissions": "0",
+      "position": 12,
+      "mentionable": false
+    },
+    {
+      "name": "----------------------",
+      "color": 0,
+      "hoist": false,
+      "permissions": "0",
+      "position": 8,
+      "mentionable": false
+    },
+    {
+      "name": "<BOT>",
+      "color": 8886702,
+      "hoist": true,
+      "permissions": "0",
+      "position": 14,
+      "mentionable": false
+    },
+    {
+      "name": "ރALEVİ FEDAİLERİ ރ",
+      "color": 16711685,
+      "hoist": true,
+      "permissions": "0",
+      "position": 19,
+      "mentionable": false
+    },
+    {
+      "name": "yeni rol",
+      "color": 0,
+      "hoist": false,
+      "permissions": "0",
+      "position": 17,
+      "mentionable": false
+    },
+    {
+      "name": "Kerbela Gençleri",
+      "color": 325120,
+      "hoist": true,
+      "permissions": "0",
+      "position": 15,
+      "mentionable": false
+    },
+    {
+      "name": "HZ ALİ",
+      "color": 16777215,
+      "hoist": true,
+      "permissions": "8",
+      "position": 23,
+      "mentionable": false
+    },
+    {
+      "name": "<3 \"01.04 \"",
+      "color": 13257386,
+      "hoist": true,
+      "permissions": "8",
+      "position": 24,
+      "mentionable": false
+    },
+    {
+      "name": "kadim dost",
+      "color": 0,
+      "hoist": false,
+      "permissions": "8",
+      "position": 28,
+      "mentionable": false
+    },
+    {
+      "name": "BABADIR BIZIM ICIN",
+      "color": 16711680,
+      "hoist": true,
+      "permissions": "8",
+      "position": 20,
+      "mentionable": false
+    },
+    {
+      "name": "+",
+      "color": 0,
+      "hoist": true,
+      "permissions": "1099780064278",
+      "position": 21,
+      "mentionable": true
+    },
+    {
+      "name": "alevi kızları",
+      "color": 9854847,
+      "hoist": true,
+      "permissions": "0",
+      "position": 18,
+      "mentionable": false
+    },
+    {
+      "name": "cmute",
+      "color": 0,
+      "hoist": false,
+      "permissions": "0",
+      "position": 3,
+      "mentionable": false
+    },
+    {
+      "name": "ses yetki",
+      "color": 2123412,
+      "hoist": false,
+      "permissions": "0",
+      "position": 13,
+      "mentionable": false
+    },
+    {
+      "name": "-18",
+      "color": 4356266,
+      "hoist": false,
+      "permissions": "0",
+      "position": 1,
+      "mentionable": false
+    },
+    {
+      "name": "KAYINÇO",
+      "color": 16711680,
+      "hoist": true,
+      "permissions": "0",
+      "position": 22,
+      "mentionable": false
+    },
+    {
+      "name": "vmute",
+      "color": 0,
+      "hoist": false,
+      "permissions": "0",
+      "position": 2,
+      "mentionable": false
+    }
+  ],
+  "channels": [
+    {
+      "name": "boost",
+      "type": 0,
+      "parentId": "1337463919803109438",
+      "position": 5,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "topic": null,
+      "rateLimitPerUser": null
+    },
+    {
+      "name": "anılar",
+      "type": 0,
+      "parentId": "1337463919803109438",
+      "position": 4,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "topic": null,
+      "rateLimitPerUser": null
+    },
+    {
+      "name": "kurallar",
+      "type": 0,
+      "parentId": "1337463919803109438",
+      "position": 2,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "topic": null,
+      "rateLimitPerUser": null
+    },
+    {
+      "name": "oto",
+      "type": 0,
+      "parentId": null,
+      "position": 0,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "topic": null,
+      "rateLimitPerUser": null
+    },
+    {
+      "name": "01.04 <3",
+      "type": 2,
+      "parentId": "1377392626688331898",
+      "position": 0,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "topic": null,
+      "rateLimitPerUser": null
+    },
+    {
+      "name": "Zile",
+      "type": 2,
+      "parentId": "1377392626688331898",
+      "position": 2,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "topic": null,
+      "rateLimitPerUser": null
+    },
+    {
+      "name": "yaz-it",
+      "type": 0,
+      "parentId": "1369760745251930142",
+      "position": 0,
+      "nsfw": true,
+      "bitrate": null,
+      "userLimit": null,
+      "topic": null,
+      "rateLimitPerUser": null
+    },
+    {
+      "name": "cmd",
+      "type": 0,
+      "parentId": "1369760745251930142",
+      "position": 2,
+      "nsfw": true,
+      "bitrate": null,
+      "userLimit": null,
+      "topic": null,
+      "rateLimitPerUser": null
+    },
+    {
+      "name": "owo",
+      "type": 0,
+      "parentId": "1369760745251930142",
+      "position": 1,
+      "nsfw": true,
+      "bitrate": null,
+      "userLimit": null,
+      "topic": null,
+      "rateLimitPerUser": null
+    },
+    {
+      "name": "halka-sesleniş",
+      "type": 0,
+      "parentId": "1337463919803109438",
+      "position": 3,
+      "nsfw": true,
+      "bitrate": null,
+      "userLimit": null,
+      "topic": null,
+      "rateLimitPerUser": null
+    },
+    {
+      "name": "alevi",
+      "type": 0,
+      "parentId": "1337463919803109438",
+      "position": 0,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "topic": null,
+      "rateLimitPerUser": null
+    },
+    {
+      "name": "Bayrampaşa",
+      "type": 2,
+      "parentId": "1377392626688331898",
+      "position": 1,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "topic": null,
+      "rateLimitPerUser": null
+    },
+    {
+      "name": "günlük-alevi-sözleri",
+      "type": 0,
+      "parentId": "1337463919803109438",
+      "position": 1,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "topic": null,
+      "rateLimitPerUser": null
+    },
+    {
+      "name": "shitpost",
+      "type": 0,
+      "parentId": "1369760745251930142",
+      "position": 3,
+      "nsfw": true,
+      "bitrate": null,
+      "userLimit": null,
+      "topic": null,
+      "rateLimitPerUser": null
+    },
+    {
+      "name": "Tetovi <3 Lorah Office",
+      "type": 2,
+      "parentId": "1369760914496028814",
+      "position": 0,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "topic": null,
+      "rateLimitPerUser": null
+    },
+    {
+      "name": "halka acık",
+      "type": 2,
+      "parentId": "1377392626688331898",
+      "position": 3,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "topic": null,
+      "rateLimitPerUser": null
+    },
+    {
+      "name": "foto-video",
+      "type": 0,
+      "parentId": "1369760745251930142",
+      "position": 4,
+      "nsfw": true,
+      "bitrate": null,
+      "userLimit": null,
+      "topic": "Uyarı bu kanalda ş1ddet içerikli, r4h4tsız edici videolar ve fotoğraflar olabilir [Bütün video & fotoğraflar eğlence ve şaka amaçlıdır paylaşılan kötü fotoğraf yada videolarda herhangi bir destekleme, özendirme gibi şeyler söz konusu değildir!]",
+      "rateLimitPerUser": null
+    },
+    {
+      "name": "Sağmalcılar Metro",
+      "type": 2,
+      "parentId": "1377392626688331898",
+      "position": 4,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "topic": null,
+      "rateLimitPerUser": null
+    },
+    {
+      "name": "alevi-gençlerine-sesleniş",
+      "type": 0,
+      "parentId": "1386414353200447540",
+      "position": 0,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "topic": null,
+      "rateLimitPerUser": null
+    },
+    {
+      "name": "alevi-toplanma-alanı",
+      "type": 0,
+      "parentId": "1386414353200447540",
+      "position": 1,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "topic": null,
+      "rateLimitPerUser": null
+    },
+    {
+      "name": "koruma-log",
+      "type": 0,
+      "parentId": null,
+      "position": 1,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "topic": null,
+      "rateLimitPerUser": null
+    }
+  ]
+}
